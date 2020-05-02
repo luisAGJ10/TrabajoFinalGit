@@ -1,0 +1,84 @@
+commit 9fabed1b8983be9fa63bf1e04c825cf149a2e406
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 15:23:40 2020 -0400
+
+    Solucione el problema de que la App se cerraba inesperadamente
+
+commit 48c0d7d2c7899a27da19bf054b6c9fd4696317a7
+Merge: 5bec4c9 2ff8414
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 15:13:03 2020 -0400
+
+    Merge branch 'featuresReleaseDos' into develop
+
+commit 2ff8414fb948ba5ebb81c6c6fe3296d3f3abb3e2
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 15:12:26 2020 -0400
+
+    Caracteristica 5 - R2
+
+commit 3925742c9f04a292eb3e6d8fe8503c1c1d6bec40
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 15:10:46 2020 -0400
+
+    Caracteristica 4 - R2
+
+commit 363404e4702faaf284eeb7ac51086ab3eddac81f
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 15:09:24 2020 -0400
+
+    Caracteristica 3 - R2
+
+commit 5bec4c9c9e9e64cb39c2d031ae5bda39f0ca6add
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 14:52:21 2020 -0400
+
+    Solucionamos el problema de las cebollas
+
+commit d47514e2f4ecd41cd8b79a15e4fbabc531689b8a
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 14:29:08 2020 -0400
+
+    Caracteristica 2 - R2
+
+commit d37c581e92905ad84ff6a7c1f91ef7349b4c3e4d
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 14:25:36 2020 -0400
+
+    Caracteristica 1 - R2
+
+commit da1285d09f6c0db11e571b0fcf24d2075ea000cf
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 13:09:53 2020 -0400
+
+    Caracteristica 5 - R1
+
+commit bf33b8bdbbcfa42ad05594d70e6af2935ea122ab
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 13:08:29 2020 -0400
+
+    Caracteristica 4 - R1
+
+commit 923b57f3cc7fc88d26207ab76c8998dc05ca8546
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 13:07:04 2020 -0400
+
+    Caracteristica 3 - R1
+
+commit a6fc726022b0d0a8da0307718ccf87c669c825bb
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 13:05:21 2020 -0400
+
+    Caracteristica 2 - R1
+
+commit 1eb12bdf02309684354148c2e4055b2ca54d4f30
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 13:03:19 2020 -0400
+
+    Caracteristica 1 - R1
+
+commit 618593bce1f6f93820aec8034ac842d82ad4b256
+Author: Luis Garcia <garcia.jancko.luis@gmail.com>
+Date:   Sat May 2 12:59:38 2020 -0400
+
+    Este es el commit inicial del proyecto
